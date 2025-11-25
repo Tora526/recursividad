@@ -8,7 +8,6 @@ void opendoll(int n){
 	}
 	cout<< "Abriendo cajita " <<n<<endl;
 	opendoll(n-1);
-	cout<< "Cerrando la cajita" << n << endl;
 	}
 
 
